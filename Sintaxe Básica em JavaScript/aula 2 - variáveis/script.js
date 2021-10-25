@@ -31,3 +31,5 @@ function escopoLocal(){
 }
 
 escopoLocal();
+
+console.log('teste');
